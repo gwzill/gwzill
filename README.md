@@ -1,1 +1,1 @@
-**Aviatrix: MultiCloud Network Professional** - <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="73d34332-b3d5-43a0-93ba-434835af751f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+**Aviatrix: MultiCloud Network Professional** - https://www.credly.com/badges/73d34332-b3d5-43a0-93ba-434835af751f/public_url
